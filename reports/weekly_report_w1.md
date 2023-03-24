@@ -8,7 +8,9 @@ Mô tả các vấn đề khó khăn nhóm gặp phải khi thực hiện các t
 
 ## Dự định tuần tới làm gì
 Kế hoạch thực hiện công việc tuần tới của nhóm.
----
+
+===
+
 # Báo cáo của thành viên
 
 ## Nguyễn Văn A
